@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Akhil-Kumar-2001" alt="CoDiNg RocKs" width="60%"/><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=40&vCenter=true&width=600&lines=👋+Hello!+I'm+Akhil+Kumar+S;🚀+MERN+Stack+Developer;🎯+Building+Awesome+Apps!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Akhil;Welcome+to+my+GitHub+profile" />
 </div>
 
 # 🌟 Akhil Kumar S - Full-Stack Developer
@@ -31,9 +31,10 @@ Hello! I’m **Akhil Kumar S**, a passionate software developer specializing in 
 ---
 
 ## 📊 GitHub Stats
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhil-Kumar-2001&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Kumar-2001&layout=compact&theme=dracula)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Kumar-2001&show_icons=true&theme=dracula" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Kumar-2001&layout=compact&theme=dracula" width="40%" />
+</div>
 ---
 
 ## 🚀 About My Work
