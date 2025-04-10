@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Akhil-Kumar-2001" alt="CoDiNg RocKs" width="60%"/><br>
+  <br style="line-height: 20px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=F7F7F7&size=46&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Akhil;Welcome+to+my+GitHub+profile" />
 </div>
+
 
 # 🌟 Akhil Kumar S - Full-Stack Developer
 
