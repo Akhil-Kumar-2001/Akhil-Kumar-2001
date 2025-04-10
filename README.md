@@ -57,7 +57,9 @@ I thrive on turning ideas into reality through code. Whether it’s building res
 ---
 
 <h2 align="center">👀 Fun Fact</h2>
-When I’m not coding, you can find me exploring new design tools like **Figma** or sketching ideas on **Canva**!
+<div align="center">
+  When I’m not coding, you can find me exploring new design tools like <strong>Figma</strong> or sketching ideas on <strong>Canva</strong>!
+</div>
 
 ---
 
