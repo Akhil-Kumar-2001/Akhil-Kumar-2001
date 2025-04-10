@@ -46,15 +46,19 @@ I thrive on turning ideas into reality through code. Whether it’s building res
 
 ---
 
-## 🎉 Coding Cycle
-**My Development Process:**  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken Code!"/>  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Fixed It!"/>  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="Magic Works!"/>  
+<h2 align="center">🎉 Coding Cycle</h2>
+
+<p align="center"><strong>My Development Process:</strong></p>  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="80px" alt="Broken Code!"/>  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="80px" alt="Fixed It!"/>  
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="80px" alt="Magic Works!"/>  
+</div>
 
 ---
 
-## 👀 Fun Fact
+<h2 align="center">👀 Fun Fact</h2>
 When I’m not coding, you can find me exploring new design tools like **Figma** or sketching ideas on **Canva**!
 
 ---
