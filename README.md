@@ -1,12 +1,7 @@
 <div align="center">
-
-![Developer Working](https://github.com/Akhil-Kumar-2001/Akhil-Kumar-2001/raw/main/assets/dev-working_rounded.gif)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=40&vCenter=true&width=600&lines=👋+Hello!+I’m+Akhil+Kumar+S;🚀+MERN+Stack+Developer;🎯+Building+Awesome+Apps!" />
-
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Akhil-Kumar-2001" alt="CoDiNg RocKs" width="60%"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&size=40&vCenter=true&width=600&lines=👋+Hello!+I'm+Akhil+Kumar+S;🚀+MERN+Stack+Developer;🎯+Building+Awesome+Apps!" />
 </div>
-
----
 
 # 🌟 Akhil Kumar S - Full-Stack Developer
 
