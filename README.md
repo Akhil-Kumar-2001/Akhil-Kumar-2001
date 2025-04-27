@@ -37,7 +37,7 @@ Hello! I’m **Akhil Kumar S**, a passionate software developer specializing in 
   <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Kumar-2001&show_icons=true&theme=dracula" width="42%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Kumar-2001&layout=compact&theme=dracula" width="40%" />
 </div>
----
+
 
 ## 🚀 About My Work
 I thrive on turning ideas into reality through code. Whether it’s building responsive frontends with **React**, designing efficient backends with **Node.js** and **Express**, or managing databases with **MongoDB**, I’m all about creating solutions that scale and delight users.
